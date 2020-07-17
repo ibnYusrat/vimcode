@@ -1,3 +1,6 @@
+
+![](vimcode.gif)
+
 # Make VIM Look & Work like VS Code for Web Development
 
 1. Install VIM Plug with this command
