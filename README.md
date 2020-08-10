@@ -24,3 +24,7 @@ For other operating systems, please read their README.
 
 7. Install the font from this repo.
 
+
+## Custom settings:
+
+1. Pressing `CTRL` + `Down` and `CTRL` + `Up` moves the lines of code up and down.
