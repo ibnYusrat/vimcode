@@ -22,8 +22,7 @@ For ubuntu, it'll go like this: `sudo apt-get install ripgrep`
 
 For other operating systems, please read their README.
 
-7. Install the font from this repo.
-
+7. Install the font (`Cousine Regular Nerd Font Complete`) from the directory where you cloned this repository.
 
 ## Custom settings:
 
