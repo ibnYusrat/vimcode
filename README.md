@@ -5,8 +5,7 @@
 
 1. Install VIM Plug with this command
 
-`curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
-    https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim`
+`curl -fLo ~/.vim/autoload/plug.vim --create-dirs https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim`
     
 2. Copy `.vimrc` file to your home directory (overwrite existing file you never edited it before).
 
