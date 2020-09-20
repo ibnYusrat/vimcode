@@ -3,6 +3,11 @@
 
 # Make VIM Look & Work like VS Code for Web Development
 
+## Automatic Install:
+Simply run the `./install.sh` script to set everything up automatically. The script may take a little bit of time so be patient. This script will not install `ripgrep` automatically because it depends on which distro you are on. And you might not need it anyway.
+
+## Manual Install Instructions: 
+
 1. Install VIM Plug with this command
 
 `curl -fLo ~/.vim/autoload/plug.vim --create-dirs https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim`
