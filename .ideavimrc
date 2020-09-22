@@ -1,0 +1,7 @@
+" vmap ,i <Esc>l,bv,e
+" omap ,i :normal v,i<CR>
+
+map <C-Up> :m -2<CR>
+map <C-Down> :m +1<CR>
+map <C-s> :w<CR>
+nnoremap d "_d 
