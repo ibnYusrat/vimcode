@@ -22,3 +22,4 @@ nnoremap d "_d
 nnoremap c d
 nnoremap C D
 vnoremap c d
+nnoremap x "_x
