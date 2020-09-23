@@ -19,3 +19,4 @@ nmap <F6> :NERDTreeToggle<CR>
 map <C-Up> :m -2<CR>
 map <C-Down> :m +1<CR>
 nnoremap d "_d 
+nnoremap c d
