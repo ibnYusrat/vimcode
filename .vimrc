@@ -21,3 +21,4 @@ map <C-Down> :m +1<CR>
 nnoremap d "_d 
 nnoremap c d
 nnoremap C D
+vnoremap c d
