@@ -6,3 +6,4 @@ map <C-Down> :m +1<CR>
 map <C-s> :w<CR>
 nnoremap d "_d 
 nnoremap c d
+nnoremap C D
