@@ -31,4 +31,5 @@ For other operating systems, please read their README.
 ## Custom settings:
 
 1. Pressing `CTRL` + `Down` and `CTRL` + `Up` moves the lines of code up and down.
-2. `d` is mapped to `"_d` which means it will delete the text instead of cutting it, and won't change clipboard. To Actually cut, you can use `c` followed by movement keys.
+2. `d` is mapped to `"_d` which means it will delete the text instead of cutting it, and won't change clipboard. To Actually `cut`, you can use `c` followed by movement keys.
+3. Also `x` will delete 1 charachter, instead of changing the clipboard.
