@@ -11,6 +11,7 @@ Plug 'preservim/nerdtree'
 Plug 'ryanoasis/vim-devicons'
 Plug 'metakirby5/codi.vim'
 Plug 'preservim/nerdcommenter'
+Plug 'tpope/vim-surround'
 call plug#end()
 colorscheme OceanicNext
 set encoding=UTF-8
@@ -25,3 +26,4 @@ vnoremap c d
 nnoremap x "_x
 nmap <C-_>   <Plug>NERDCommenterToggle
 vmap <C-_>   <Plug>NERDCommenterToggle<CR>gv
+set number
