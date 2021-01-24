@@ -12,3 +12,5 @@ nnoremap C D
 vnoremap c d
 nnoremap x "_x
 set surround  
+set relativenumber
+
