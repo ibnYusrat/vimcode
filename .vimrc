@@ -29,3 +29,4 @@ nnoremap x "_x
 nmap <C-_>   <Plug>NERDCommenterToggle
 vmap <C-_>   <Plug>NERDCommenterToggle<CR>gv
 set relativenumber
+set ignorecase
