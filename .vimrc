@@ -30,3 +30,4 @@ nmap <C-_>   <Plug>NERDCommenterToggle
 vmap <C-_>   <Plug>NERDCommenterToggle<CR>gv
 set relativenumber
 set ignorecase
+runtime macros/matchit.vim

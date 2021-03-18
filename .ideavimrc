@@ -14,3 +14,4 @@ nnoremap x "_x
 set surround  
 set relativenumber
 set ignorecase
+runtime macros/matchit.vim
