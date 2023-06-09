@@ -12,6 +12,7 @@ Plug 'ryanoasis/vim-devicons'
 Plug 'metakirby5/codi.vim'
 Plug 'preservim/nerdcommenter'
 Plug 'tpope/vim-surround'
+Plug 'APZelos/blamer.nvim'
 call plug#end()
 colorscheme OceanicNext
 set encoding=UTF-8
@@ -30,4 +31,6 @@ nmap <C-_>   <Plug>NERDCommenterToggle
 vmap <C-_>   <Plug>NERDCommenterToggle<CR>gv
 set relativenumber
 set ignorecase
+let g:blamer_enabled = 1
+let g:blamer_delay = 500
 runtime macros/matchit.vim
