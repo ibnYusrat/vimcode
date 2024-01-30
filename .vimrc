@@ -29,7 +29,6 @@ vnoremap c d
 nnoremap x "_x
 nmap <C-_>   <Plug>NERDCommenterToggle
 vmap <C-_>   <Plug>NERDCommenterToggle<CR>gv
-set relativenumber
 set ignorecase
 let g:blamer_enabled = 1
 let g:blamer_delay = 500
