@@ -34,3 +34,10 @@ set nu
 let g:blamer_enabled = 1
 let g:blamer_delay = 500
 runtime macros/matchit.vim
+
+
+" COC completion mappings
+inoremap <silent><expr> <CR> coc#pum#visible() ? coc#pum#confirm() : "\<CR>"
+inoremap <silent><expr> <Tab> coc#pum#visible() ? coc#pum#next(1) : "\<Tab>"
+inoremap <silent><expr> <S-Tab> coc#pum#visible() ? coc#pum#prev(1) : "\<S-Tab>"
+inoremap <silent><expr> <C-Space> coc#refresh()
